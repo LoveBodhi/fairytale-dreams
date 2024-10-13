@@ -1,0 +1,24 @@
+* text=auto
+
+*.lvlx text eol=lf
+*.wldx text eol=lf
+*.lvl text eol=crlf
+*.wld text eol=crlf
+*.md text eol=crlf
+*.ini text eol=crlf
+gameinfo.ini text eol=lf
+thextech.ini text eol=lf
+*.lua text eol=crlf
+*.txt text eol=crlf
+npc-*.txt text eol=crlf
+*.sav text eol=crlf
+
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.exe binary
+*.dll binary
+*.mp3 binary
+*.ogg binary
+*.it binary
